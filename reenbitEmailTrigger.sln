@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reenbitEmailTrigger", "reenbitEmailTrigger\reenbitEmailTrigger.csproj", "{2D045CD3-7C63-451F-BF87-641F41E0C255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reenbitEmailTriggerTests", "reenbitEmailTriggerTests\reenbitEmailTriggerTests.csproj", "{AD904435-1DF5-4700-8A67-BBF3E29D11D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D045CD3-7C63-451F-BF87-641F41E0C255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D045CD3-7C63-451F-BF87-641F41E0C255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D045CD3-7C63-451F-BF87-641F41E0C255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D045CD3-7C63-451F-BF87-641F41E0C255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD904435-1DF5-4700-8A67-BBF3E29D11D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD904435-1DF5-4700-8A67-BBF3E29D11D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD904435-1DF5-4700-8A67-BBF3E29D11D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD904435-1DF5-4700-8A67-BBF3E29D11D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A02148B-B32B-482B-9E28-71DFDDC295AA}
+	EndGlobalSection
+EndGlobal
